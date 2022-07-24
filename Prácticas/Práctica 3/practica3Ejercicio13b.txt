@@ -1,0 +1,11 @@
+#!/bin/bash
+select elegido in Listar DondeEstoy QuienEsta Salir
+do
+	case $elegido in
+	"Listar") ls;;
+	"DondeEstoy") pwd;;
+	"QuienEsta") w;;
+	"Salir") exit 0;;
+	*) echo "Esa no es una opcion"
+	esac
+done

@@ -1,0 +1,14 @@
+#!/bin/bash
+if ![$# -eq 1]
+then 
+	echo "Ingresar el nombre del archivo"
+	exit 1
+fi
+if [[-e $1]]
+	if [[-f $1]]; then echo "$1 es un archivo regular";fi
+	if [[-d $1]]; then echo "$1 es un directorio";fi
+else
+	echo "El archivo no existe"
+	mkdir -p "$1"
+	echo "Se creo el directorio $1"
+fi
