@@ -12,6 +12,15 @@ Prácticas y material de introducción a los sistemas operativos, cursada 2do se
 ## Material ##
 * [Autoevaluaciones](https://github.com/ssofiaavila/ISO--Informatica-UNLP/tree/main/Autoevaluaciones)
 * [Teorías](https://github.com/ssofiaavila/ISO--Informatica-UNLP/tree/main/Teor%C3%ADas)
+* <details>
+  <summary> Apuntes </summary>
+  
+    * [Anexo arquitectura de computadoras](https://github.com/ssofiaavila/ISO--Informatica-UNLP/blob/main/Apuntes%20%2B%20resumenes/Anexo-%20Arquitectura%20de%20computadoras.pdf)
+  * [Conceptos generales](https://github.com/ssofiaavila/ISO--Informatica-UNLP/blob/main/Apuntes%20%2B%20resumenes/Conceptos%20generales%20y%20aplicaciones.pdf)
+  * [Práctica 1](https://github.com/ssofiaavila/ISO--Informatica-UNLP/blob/main/Apuntes%20%2B%20resumenes/Pr%C3%A1ctica%201-%20explicaci%C3%B3n.pdf)
+  * [UEFI](https://github.com/ssofiaavila/ISO--Informatica-UNLP/blob/main/Apuntes%20%2B%20resumenes/UEFI.pdf)
+  
+  </details>
 
   
   
