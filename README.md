@@ -21,6 +21,7 @@ Prácticas y material de introducción a los sistemas operativos, cursada 2do se
   * [Práctica 1](https://github.com/ssofiaavila/ISO--Informatica-UNLP/blob/main/Apuntes%20%2B%20resumenes/Pr%C3%A1ctica%201-%20explicaci%C3%B3n.pdf)
   * [Práctica 3](https://github.com/ssofiaavila/ISO--Informatica-UNLP/blob/main/Apuntes%20%2B%20resumenes/Pr%C3%A1ctica%203-%20Explicaci%C3%B3n.pdf)
   * [UEFI](https://github.com/ssofiaavila/ISO--Informatica-UNLP/blob/main/Apuntes%20%2B%20resumenes/UEFI.pdf)
+  * [Comandos bash](https://github.com/ssofiaavila/ISO--Informatica-UNLP/blob/main/Apuntes%20%2B%20resumenes/Comandos%20bash.pdf)
   
   </details>
 
