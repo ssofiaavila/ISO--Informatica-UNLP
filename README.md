@@ -9,6 +9,12 @@ Prácticas y material de introducción a los sistemas operativos, cursada 2do se
 * [Práctica 3- Ejercicios bash](https://github.com/ssofiaavila/ISO--Informatica-UNLP/tree/main/Pr%C3%A1cticas/Ejercicios%20bash/Pr%C3%A1ctica%203)
 * [Ejemplos bashing](https://github.com/ssofiaavila/ISO--Informatica-UNLP/tree/main/Pr%C3%A1cticas/Ejercicios%20bash/Ejemplos%20bash)
 * [2021](https://github.com/ssofiaavila/ISO--Informatica-UNLP/tree/main/Pr%C3%A1cticas/2021)
+* <details>
+  <summary> Parciales </summary>
+  
+  * [Primera fecha SOA](https://github.com/ssofiaavila/ISO--Informatica-UNLP/blob/main/Parciales/1ra%20fecha%20SOA.pdf)
+  
+  </summary>
 
 ## Material ##
 * [Autoevaluaciones](https://github.com/ssofiaavila/ISO--Informatica-UNLP/tree/main/Autoevaluaciones)
