@@ -13,6 +13,8 @@ Prácticas y material de introducción a los sistemas operativos, cursada 2do se
   <summary> Parciales </summary>
   
   * [Primera fecha SOA](https://github.com/ssofiaavila/ISO--Informatica-UNLP/blob/main/Parciales/1ra%20fecha%20SOA.pdf)
+  * [Preguntas teoría SOA](https://github.com/ssofiaavila/ISO--Informatica-UNLP/blob/main/Parciales/Preguntas%20teor%C3%ADa%20SOA.pdf)
+  * [Enunciados parciales bash](https://github.com/ssofiaavila/ISO--Informatica-UNLP/blob/main/Parciales/Enunciados%20parciales%20SOA.pdf)
   
   </summary>
 
