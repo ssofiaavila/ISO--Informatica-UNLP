@@ -1,5 +1,5 @@
 # ISO--Informatica-UNLP
-Prácticas y material de introducción a los sistemas operativos, cursada 2do semestre 2022- Facultad de informática UNLP
+Prácticas y material de introducción a los sistemas operativos, cursada 1er semestre 2023- Facultad de informática UNLP
 ----
 ## Práctica ##
 * [Enunciados + explicaciones](https://github.com/ssofiaavila/ISO--Informatica-UNLP/tree/main/Enunciados%20%2B%20explicaciones)
